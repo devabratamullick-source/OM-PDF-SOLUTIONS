@@ -1,0 +1,8 @@
+{
+  "name": "PDF Maker",
+  "description": "Offline-first PDF Maker, Document Scanner, and PDF Converter for creating, merging, splitting, compressing, watermarking, and managing PDFs.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
